@@ -10,7 +10,7 @@ public class Main {
 
     }
 
-    public static String veredicto(String valor1, String valor2) {
+    private static String veredicto(String valor1, String valor2) {
 
 
         if (Integer.valueOf(valor1) == Integer.valueOf(valor2)) {
